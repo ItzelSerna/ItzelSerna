@@ -29,14 +29,6 @@ Con experiencia previa en gestión de datos, procesos sociales y análisis de ca
 
 ---
 
-### 🏆 Logros en GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItzelSerna&theme=gruvbox&column=3&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ### 📌 ¿Qué estoy buscando?
 
 Estoy en búsqueda de oportunidades como **Desarrolladora Web Jr.**, en equipos donde pueda seguir aprendiendo, aportar valor desde la tecnología y trabajar colaborativamente en productos digitales con propósito.
