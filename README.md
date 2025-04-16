@@ -45,7 +45,7 @@ Estoy en búsqueda de oportunidades como **Desarrolladora Web Jr.**, en equipos 
 
 ---
 
-### 📈 Stats (opcional)
+### 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzelSerna&layout=compact&theme=default" />
