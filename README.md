@@ -16,6 +16,7 @@ Con experiencia previa en gestión de datos, procesos sociales y análisis de ca
 
 ### 🛠️ Tecnologías & Herramientas
 
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
@@ -24,6 +25,7 @@ Con experiencia previa en gestión de datos, procesos sociales y análisis de ca
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+</p>
 
 ---
 
@@ -46,7 +48,6 @@ Estoy en búsqueda de oportunidades como **Desarrolladora Web Jr.**, en equipos 
 ### 📈 Stats (opcional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzelSerna&show_icons=true&theme=default&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzelSerna&layout=compact&theme=default" />
 </p>
 
